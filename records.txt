@@ -1,0 +1,16 @@
+First Name,Last Name,Date of Birth,Phone Number,Home Address,City,State,Zip Code
+James,Peterson,04/12/1990,(555) 123-4567,123 Oak St.,Denver,CO,80203
+Emily,Roberts,07/23/1985,(555) 234-5678,456 Pine Ave.,Chicago,IL,60611
+Michael,Davis,12/04/1993,(555) 345-6789,789 Birch Rd.,Austin,TX,73301
+Sarah,Miller,03/19/1998,(555) 456-7890,321 Elm St.,Miami,FL,33101
+David,Clark,09/10/1987,(555) 567-8901,654 Maple Dr.,Seattle,WA,98101
+Olivia,Harris,02/15/1992,(555) 678-9012,987 Cedar Ln.,San Francisco,CA,94110
+William,Anderson,11/30/1980,(555) 789-0123,246 Cherry Blvd.,Portland,OR,97201
+Sophia,Wilson,01/09/1995,(555) 890-1234,135 Willow St.,Boston,MA,02108
+Benjamin,Taylor,06/18/2000,(555) 901-2345,579 Pinecrest Dr.,Atlanta,GA,30303
+Sara,Little,08/10/1978,(555) 707-3959,118 Tanner Forges Suite 141,Webbside,OR,85329
+Sarah,Thompson,03/12/1985,(555) 342-7654,123 Elm St.,Springfield,IL,62704
+James,Wilson,11/05/1992,(555) 847-3921,456 Oak Ave.,Rivertown,TX,75001
+Emily,Garcia,07/22/1990,(555) 210-9814,789 Pine Ln.,Lakeview,FL,33101
+Michael,Johnson,01/14/1980,(555) 674-8293,321 Maple Rd.,Greenfield,WI,53228
+Olivia,Martinez,09/03/1996,(555) 926-5648,101 Birch St.,Clearwater,CO,80903
